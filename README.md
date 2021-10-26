@@ -22,3 +22,5 @@ Package ที่ต้องใช้
   
 Run Bot ***python main.py***
  
+Thanks
+  https://gist.github.com/EvieePy/ab667b74e9758433b3eb806c53a19f34
